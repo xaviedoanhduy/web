@@ -61,6 +61,7 @@ Authors
 
 * Hynsys Technologies
 * Camptocamp
+* Alitec Pte Ltd
 
 Contributors
 ------------
@@ -70,6 +71,14 @@ Contributors
 -  `Camptocamp <https://www.camptocamp.com>`__
 
    -  Iván Todorovich <ivan.todorovich@camptocamp.com>
+
+-  `Alitec Pte Ltd <http://www.alitec.sg>`__
+
+   -  Jay Patel <jay@alitec.sg>
+
+-  Trobz
+
+   -  Tris Doan <tridm@trobz.com>
 
 Maintainers
 -----------
@@ -83,6 +92,14 @@ This module is maintained by the OCA.
 OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
+
+.. |maintainer-trisdoan| image:: https://github.com/trisdoan.png?size=40px
+    :target: https://github.com/trisdoan
+    :alt: trisdoan
+
+Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
+
+|maintainer-trisdoan| 
 
 This module is part of the `OCA/web <https://github.com/OCA/web/tree/17.0/web_chatter_position>`_ project on GitHub.
 
