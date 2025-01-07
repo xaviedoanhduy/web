@@ -3,7 +3,7 @@
 
 {
     "name": "Save & Discard Buttons",
-    "version": "17.0.1.0.0",
+    "version": "17.0.1.0.1",
     "summary": "Save & Discard Buttons",
     "license": "AGPL-3",
     "category": "Tools",
