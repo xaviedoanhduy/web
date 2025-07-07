@@ -87,13 +87,7 @@ Contributors
 - Shivam Soni <s.soni.serpentcs@gmail.com>
 - `Trobz <https://www.trobz.com>`__:
 
-  - Phan Hong Phuc <phucph9220@gmail.com>
-
-Other credits
--------------
-
-The migration of this module from {{16.0}} to {{18.0}} was financially
-supported by OCA
+  - Phan Hong Phuc <phucph@trobz.com>
 
 Maintainers
 -----------

@@ -4,4 +4,4 @@
   - Iván Todorovich
 - Shivam Soni \<s.soni.serpentcs@gmail.com\>
 - [Trobz](https://www.trobz.com):
-  - Phan Hong Phuc \<phucph9220@gmail.com\>
+  - Phan Hong Phuc \<phucph@trobz.com\>

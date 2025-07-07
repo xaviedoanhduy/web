@@ -15,7 +15,7 @@
     "assets": {
         "web.assets_backend": [
             "web_widget_image_webcam/static/src/lib/webcam.js",
-            "web_widget_image_webcam/static/src/js/webcam_widget.js",
+            "web_widget_image_webcam/static/src/js/webcam_widget.esm.js",
             "web_widget_image_webcam/static/src/css/web_widget_image_webcam.css",
             "web_widget_image_webcam/static/src/xml/web_widget_image_webcam.xml",
         ]
