@@ -42,6 +42,12 @@ msgid "Custom"
 msgstr "Customizado"
 
 #. module: web_pivot_computed_measure
+#: model:ir.actions.act_window,name:web_pivot_computed_measure.demo_action_res_partner_report_pivot
+#: model:ir.ui.menu,name:web_pivot_computed_measure.demo_menu_res_partner_report_pivot
+msgid "Demo Pivot"
+msgstr ""
+
+#. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 msgid "Div (m1 / m2)"
@@ -102,6 +108,11 @@ msgid "Operation"
 msgstr "Operación"
 
 #. module: web_pivot_computed_measure
+#: model_terms:ir.ui.view,arch_db:web_pivot_computed_measure.demo_view_res_partner_report_pivot
+msgid "Partners Table"
+msgstr ""
+
+#. module: web_pivot_computed_measure
 #. odoo-javascript
 #: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
 msgid "Perc (m1 * 100 / m2)"
@@ -134,54 +145,6 @@ msgid ""
 msgstr ""
 "Esta medida está utilizada por una 'medida computada'. Por favor, desabilita "
 "la medida computada primero."
-
-#. module: web_pivot_computed_measure
-#. odoo-javascript
-#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
-msgid "custom"
-msgstr ""
-
-#. module: web_pivot_computed_measure
-#. odoo-javascript
-#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
-msgid "float"
-msgstr ""
-
-#. module: web_pivot_computed_measure
-#. odoo-javascript
-#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
-msgid "integer"
-msgstr ""
-
-#. module: web_pivot_computed_measure
-#. odoo-javascript
-#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
-msgid "m1*m2"
-msgstr ""
-
-#. module: web_pivot_computed_measure
-#. odoo-javascript
-#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
-msgid "m1+m2"
-msgstr ""
-
-#. module: web_pivot_computed_measure
-#. odoo-javascript
-#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
-msgid "m1-m2"
-msgstr ""
-
-#. module: web_pivot_computed_measure
-#. odoo-javascript
-#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
-msgid "m1/m2"
-msgstr ""
-
-#. module: web_pivot_computed_measure
-#. odoo-javascript
-#: code:addons/web_pivot_computed_measure/static/src/dropdown_item_custom_measure/dropdown_item_custom_measure.xml:0
-msgid "percentage"
-msgstr ""
 
 #, python-format
 #~ msgid "!measure.startsWith('__computed_')"
