@@ -1,5 +1,5 @@
 # Copyright 2016 ACSONE SA/NV
-# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
+# License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl).
 
 import json
 
@@ -18,6 +18,7 @@ class TestResUsers(common.TransactionCase):
             "message": "message",
             "title": "title",
             "sticky": True,
+            "html": False,
             "action": None,
             "params": {},
         }
@@ -37,6 +38,7 @@ class TestResUsers(common.TransactionCase):
             "message": "message",
             "title": "title",
             "sticky": True,
+            "html": False,
             "action": None,
             "params": {},
         }
@@ -56,6 +58,7 @@ class TestResUsers(common.TransactionCase):
             "message": "message",
             "title": "title",
             "sticky": True,
+            "html": False,
             "action": None,
             "params": {},
         }
@@ -75,6 +78,7 @@ class TestResUsers(common.TransactionCase):
             "message": "message",
             "title": "title",
             "sticky": True,
+            "html": False,
             "action": None,
             "params": {},
         }
@@ -94,6 +98,7 @@ class TestResUsers(common.TransactionCase):
             "message": "message",
             "title": "title",
             "sticky": True,
+            "html": False,
             "action": None,
             "params": {},
         }
